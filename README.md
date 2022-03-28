@@ -7,4 +7,4 @@ The mod itself is heavily meant for dungeons with features like secret counter, 
 
 The out of dungeon features include an auction flipper (not autoflip), fairysoul waypoints, mining info, commission waypoints, etc.
 
-We are greatly lookin forward to getting reviews so that we can make the experience better for everyone.
+We are greatly lookin forward to getting feedback so that we can make the experience better for everyone.
